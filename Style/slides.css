@@ -1,5 +1,3 @@
-@import url("fontello-ed66f1a6/css/fontello.css");
-
 @import url("../Libraries/animate.css/animate.css");
 
 @font-face {
@@ -1228,7 +1226,7 @@ a.pat-markdown {
 
 /* @end */
 
-/* @group Cover */
+/*/* @group Cover */
 
 .slide.cover section {
 	overflow:hidden;
@@ -1294,7 +1292,7 @@ a.pat-markdown {
 	position: relative;
 }
 
-/* @end */
+/* @end */*/
 
 /* @group Shout */
 
