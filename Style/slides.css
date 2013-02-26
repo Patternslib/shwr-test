@@ -1106,6 +1106,10 @@ a.pat-markdown {
 	text-shadow: black 0 1px 5px 10px;
 }
 
+@media print {
+
+}
+
 .slide.full section .text-overlay {
 	position: absolute;
 	width: 910px;
